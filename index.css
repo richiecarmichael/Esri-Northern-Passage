@@ -46,3 +46,10 @@ html, body {
     right: 0;
 }
 
+svg g.passages path {
+    cursor: pointer;
+}
+
+svg g.ships image {
+    cursor: move;
+}
